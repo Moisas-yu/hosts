@@ -2,6 +2,13 @@ newPRWelcomeComment: |
   Thanks for your contribution!
   **SAFETY NOTE:** Please consider submit your changes as `beyondgfw <beyond.gfw.limit@gmail.com>`. We strongly recommend you to do so for your anonymity.
   Also, if you are contributing to the HOSTS file:
+
+# TW President Start
+117.56.6.1      www.president.gov.tw
+117.56.6.3      service.president.gov.tw
+117.56.6.13     www.100.president.gov.tw
+# TW President End 
+
   - Make sure your pull request's base branch is `hosts-source`.
   - Per #48 please make sure you are not using one single IP for multiple domains whenever possible.
   Other requirements are listed on the [CONTRIBUTING](https://github.com/googlehosts/hosts/blob/master/.github/CONTRIBUTING.md#%E8%B4%A1%E7%8C%AE-contributing) page.
